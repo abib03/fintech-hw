@@ -58,19 +58,19 @@ Startup founders no longer viewing VCs as the only way to fund their businesses.
 
 * What has been the business impact of this company so far?
 
-Republic has completely revolutionized the industry by making it easier for the everyday person to invest in startups without having to be an accredited investor or millionaire (as AngelList required).
+Republic has completely revolutionized the industry by making it easier for the everyday person to invest in startups without having to be an accredited investor or millionaire (as AngelList required). Making it easier for startups to raise money makes the current standard of using venture capitals obselete by opening the pool of investors. It also allows startups another metric to entice VCs to invest even more money because of the social proof from being funded on Republic.
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 The amount of deals closed, amount of money invested, number of members in its community, and the number of startups that apply to be listed on the platform. They have closed deals with SpaceX and Robinhood with over 1 million members. In 2020, they deployed over $150M. 
 * How is your company performing relative to competitors in the same domain?
 
+They are growing rapidly. They recently purchased Seedrs, Europe's leading online private investment platform for $100 million. Republic’s aim to go global by focusing on Europe and the UK next. This means that they are leading the way to creating a gloabl centralized investing platform for everyone faster than their competitors like SeedInvest. They are also growing faster than using the traditional VC model. They've generated over $500 million since 2016.
 
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-They are growing rapidly.They recently purchased Seedrs, Europe's leading online private investment platform for $100 million. Republic’s aim to go global by focusing on Europe and the UK next. 
 * Why do you think that offering this product or service would benefit the company?
 
 The use of digital wallets, investing with crypto, encrypting transactions with Blockchain, and expanding communities with Decentralized Autonomous Organizations (DAOs)
@@ -80,7 +80,7 @@ The use of digital wallets, investing with crypto, encrypting transactions with 
 It would allow both investors and companies to have secure transactions and open a new path for further decentralizing investing by using cryptocurrencies. 
 * Why are these technologies appropriate for your solution?
 
-Not only would it secure investments safely and track them to a digital ledger, it would allow for faster execution of transactions and for further community investing into projects that matter to them.
+Not only would it secure investments safely by tracking them to a digital ledger, it would allow for faster execution of transactions and for further community investing into projects that matter to them. Using DAOs further decomocratizes their community of investors and gives them the power and voting rights to invest in projects on the site.
 
 
 ## Sources
